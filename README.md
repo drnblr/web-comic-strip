@@ -24,4 +24,4 @@ The owner searches around the house and even asks their pet turtle, Swag, if he 
 - CSS Speech and Thought Bubbles
 
 ## Purpose
-Created for educational purposes as part of the assignment.
+Created for educational purposes as part of the assignment. 
